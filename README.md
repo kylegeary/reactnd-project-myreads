@@ -21,7 +21,7 @@ To get started developing right away:
 │   └── index.html # DO NOT MODIFY
 └── src
     ├── components # Folder with the components needed for the app to run successfully
-    │   ├── pages # Book component
+    │   ├── pages # Folder with the pages/routes used in this app
     │   │   ├── mainPage.js # Main page -> this is where your shelves will display
     │   │   └── searchPage.js # Search page -> this is where you will search for new books
     │   ├── book.js # Book component
